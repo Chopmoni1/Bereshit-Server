@@ -1,0 +1,13 @@
+{
+  "name": "ginx-universal-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy": "^1.18.1",
+    "axios": "^1.6.8"
+  }
+}
